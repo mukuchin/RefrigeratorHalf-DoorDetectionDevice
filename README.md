@@ -1,0 +1,1 @@
+# RefrigeratorHalf-DoorDetectionDevice
